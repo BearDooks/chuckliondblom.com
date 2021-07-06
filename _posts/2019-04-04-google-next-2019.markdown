@@ -1,0 +1,17 @@
+---
+title: "Google Next 2019 Here I Come"
+date: 2019-04-04 11:00:00 -05:00
+categories: [Trip]
+tags: [Google, Google Next, '2019', Google Next 2019]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
+---
+
+While this is not normally what I use this blog for, I am writing to let everyone know that I will be attending Google Next 2019 this year. I am pretty excited about it since I am really hoping to get into the cloud space in my job be less into the Sysadmin part of it.
+
+One of the things I can say we are going to be looking into is Chatbots for our internal services. Users will be able to talk to these bots and get most of their questions answered without the need to call the Service Desk or anything. This is something I am truly looking forward to working on since I think it can really help the cause.
+
+I am also going to be looking into some billing issues we currently face, and some storage tools that I might be able to leverage.
+
+I will probably report about the trip when I get back.
