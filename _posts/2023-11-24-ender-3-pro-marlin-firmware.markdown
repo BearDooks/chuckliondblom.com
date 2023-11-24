@@ -2,7 +2,7 @@
 title: "Ender 3 Pro custom Marlin Firmware"
 date: 2023-11-24 12:00:00 -05:00
 categories: [Update]
-tags: ['Ender 3 Pro', 'Marlin Firmware, 'BLTouch', 'Big Tree Tech SKR Mini e3', '3D Printing', '3D Printer', 'Creality', 'Ender 3', 'Firmware', 'Bugfix', 'Sprite Extruder', 'Sprite Extruder Pro']
+tags: ['Ender 3 Pro', 'Marlin Firmware', 'BLTouch', 'Big Tree Tech SKR Mini e3', '3D Printing', '3D Printer', 'Creality', 'Ender 3', 'Firmware', 'Bugfix', 'Sprite Extruder', 'Sprite Extruder Pro']
 author: chuck lindblom
 sharing: true
 show_author_profile: true
