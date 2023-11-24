@@ -6,7 +6,7 @@ tags: ['Ender 3 Pro', 'Marlin Firmware, 'BLTouch', 'Big Tree Tech SKR Mini e3', 
 author: chuck lindblom
 sharing: true
 show_author_profile: true
-cover: /assets/images/godot_logo.png
+cover: /assets/images/ender.png
 ---
 
 ## Cusomter Ender 3 Pro Firmware Marlin Bugfix 2.1.X
