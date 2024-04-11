@@ -1,7 +1,7 @@
 ---
 title: "He's Dead Jim..."
 date: 2014-011-10 10:00:00
-categories: [guides, news,rants,site news, tech news]
+categories: [Site News]
 tags: [backup, data loss, drive, linux, lost, server, wamp, web server, windows]
 ---
 
