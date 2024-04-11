@@ -1,7 +1,8 @@
 ---
-title: hes-dead-jim
-date: 2024-04-10 21:21:42
-tags:
+title: "He's Dead Jim..."
+date: 2014-011-10 10:00:00
+categories: [guides, news,rants,site news, tech news]
+tags: [backup, data loss, drive, linux, lost, server, wamp, web server, windows]
 ---
 
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.
